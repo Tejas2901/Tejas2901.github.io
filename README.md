@@ -8,7 +8,7 @@
 3. Programming in Python
 4. English
 5. Computational Thinking
-6. Programming, Data structures and algorithms using Pyhton
+6. Programming, Data structures and algorithms using Python
 7. Database Management Systems
 8. Machine Learning Foundations
 9. Business Data Management
@@ -20,5 +20,6 @@
 3. Business Analytics
 4. Tools in Data Science
 
-[Linkedin](linkedin.com/in/tejas-gajra-98b702147)
-[Resume](https://drive.google.com/file/d/1DMaJivD-6-Taen8rkHEjuKWEANJEHtDW/view?usp=sharing)
+ [Linkedin](linkedin.com/in/tejas-gajra-98b702147) 
+ [Resume](https://drive.google.com/file/d/1DMaJivD-6-Taen8rkHEjuKWEANJEHtDW/view?usp=sharing)
+ [Google Site](https://sites.google.com/d/1-I1-Ku5UF8uWXKUrYK4wJ5Nd3roelUhy/edit)
